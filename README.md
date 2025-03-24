@@ -1,4 +1,4 @@
-# Lotus-Ransomware
+# Lotus-Ransomware (In development)
 Learning how Ransomware works. Much atrention is paid to the encryption and decryption program.
 
 
