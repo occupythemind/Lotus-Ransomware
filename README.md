@@ -1,7 +1,7 @@
 # Lotus-Ransomware (In development)
 Learning how Ransomware works. Much atrention is paid to the encryption and decryption program.
 >If at any point you somehow get stuck, you could use a reverse effect for the program
->at my [(reverseEffecf repository)(https://github.com/occupythemind/reverseEffect.git)]
+>at my [reverseEffecf repository](https://github.com/occupythemind/reverseEffect.git)
 **Feel free to fork the project so you can stay tuned on updates** while it's still in its early development.
 
 
